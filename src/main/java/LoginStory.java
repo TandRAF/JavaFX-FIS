@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public class LoginStory {
+    private int data;
+    private String theStringMessage;
 }
